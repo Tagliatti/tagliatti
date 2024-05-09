@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/560b9500b2739a72183b20237a966a878d24f262beffdbe96f579592c015d312/68747470733a2f2f692e696d6775722e636f6d2f32696e494643502e676966"  />
+  <img width="100%" height = "250px" src="https://i.imgur.com/2inIFCP.gif" alt="cover" />
 </div>
 
 ###
